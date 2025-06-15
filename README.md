@@ -3,6 +3,11 @@
 
 CareerBuddy is a fully offline, intelligent AI chatbot powered by the open-source **LLaMA3 model** via [Ollama](https://ollama.com/). Built using **React**, **TypeScript**, and **Vite**, it features a fast, modern interface with voice input, text-to-speech responses, local chat history, and reaction feedback — all running locally with **no internet or cloud dependencies**.
 
+## Live demo
+
+[Live demo](https://drive.google.com/file/d/1rzrj8tCtwnr8y_MpBjxJlTlBXGzzdoCf/view?usp=sharing)
+
+
 ---
 
 ## 👨‍💻 Team Members
