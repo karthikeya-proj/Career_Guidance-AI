@@ -3,9 +3,9 @@
 
 CareerBuddy is a fully offline, intelligent AI chatbot powered by the open-source **LLaMA3 model** via [Ollama](https://ollama.com/). Built using **React**, **TypeScript**, and **Vite**, it features a fast, modern interface with voice input, text-to-speech responses, local chat history, and reaction feedback — all running locally with **no internet or cloud dependencies**.
 
-## Live demo
+## Video demo
 
-[Live demo](https://drive.google.com/file/d/1rzrj8tCtwnr8y_MpBjxJlTlBXGzzdoCf/view?usp=sharing)
+[demo](https://drive.google.com/file/d/1rzrj8tCtwnr8y_MpBjxJlTlBXGzzdoCf/view?usp=sharing)
 
 
 ---
@@ -22,7 +22,7 @@ CareerBuddy is a fully offline, intelligent AI chatbot powered by the open-sourc
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 CareerBuddy is designed to help users explore career paths, answer questions, and receive AI-powered guidance in a secure and private environment. Unlike typical AI chatbots that require online APIs, this solution runs entirely offline using the **LLaMA3 model** served through **Ollama**.
 
@@ -83,14 +83,14 @@ To power CareerBuddy offline using the **LLaMA3 model**, you'll need to install 
 
 ---
 
-## 🧠 About LLaMA 3
+##  About LLaMA 3
 
 **LLaMA 3 (Large Language Model Meta AI)** is the latest open-source large language model developed by **Meta AI**, released in 2024. It offers powerful reasoning capabilities, improved language understanding, and optimized performance, making it ideal for both local and scalable applications.
 
 LLaMA 3 is designed to be:
-- 🔓 **Open-source** – Fully accessible for research, development, and commercial use.
-- ⚡ **Efficient** – The 8B version runs smoothly on consumer-grade hardware.
-- 💬 **Conversational** – Fine-tuned for dialogue, coding assistance, summarization, and more.
+-  **Open-source** – Fully accessible for research, development, and commercial use.
+-  **Efficient** – The 8B version runs smoothly on consumer-grade hardware.
+-  **Conversational** – Fine-tuned for dialogue, coding assistance, summarization, and more.
 
 Available Model Sizes:
 - `LLaMA3-8B` – Lightweight, suitable for local/offline apps like CareerBuddy.
@@ -98,7 +98,7 @@ Available Model Sizes:
 
 ---
 
-## 🎯 LLaMA 3 Use Cases
+##  LLaMA 3 Use Cases
 
 - **Offline Chatbots** – Build privacy-first assistants that work without internet.
 - **Career Guidance Systems** – Answer career-related questions and suggest paths (e.g., CareerBuddy).
@@ -157,41 +157,38 @@ In a new terminal tab,
 
 ---
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 
 Here are planned improvements and features for future releases of CareerBuddy:
 
-- 🔐 **User Authentication**  
+-  **User Authentication**  
   Add secure login/signup to personalize user sessions and protect chat history.
 
-- 🧠 **Persistent Memory**  
+-  **Persistent Memory**  
   Use databases like MongoDB or Firebase to store chat context across sessions.
 
-- 🌍 **Multi-language Support**  
+-  **Multi-language Support**  
   Enable voice and text support for Indian/regional languages (e.g., Hindi, Tamil, Telugu).
 
-- 📊 **Career Quiz Engine**  
+-  **Career Quiz Engine**  
   Ask users a series of questions to suggest career paths based on preferences and strengths.
 
-- 🌙 **Dark Mode Toggle**  
-  Add a dark/light theme switcher with `localStorage` preference save.
-
-- 📁 **Export Conversations**  
+-  **Export Conversations**  
   Let users download full chats as PDF or plain text for record-keeping or sharing.
 
-- 📱 **Mobile-Friendly UI**  
+-  **Mobile-Friendly UI**  
   Improve mobile responsiveness for a better experience on small screens.
 
-- 🧪 **Multi-Model Selection**  
+-  **Multi-Model Selection**  
   Support running different LLMs locally via Ollama (e.g., Mistral, Gemma).
 
-- 🔔 **Reminder/Notification System**  
+-  **Reminder/Notification System**  
   For task-based use cases or career events.
 
-- 📌 **Bookmark Important Replies**  
+-  **Bookmark Important Replies**  
   Let users pin or favorite responses in the chat window.
 
-- 🎨 **Enhanced Reactions**  
+- **Enhanced Reactions**  
   Add custom emoji feedback and analytics dashboard for responses.
 
 ---
